@@ -11,3 +11,5 @@ This repository contains the author's implementation in Tensorflow for the paper
   torch==1.9.0
   
 # Implementation
+Here we provide the implementation of a MGW-FL in TensorFlow, along with a specific execution example (on the CIFAR-100 dataset).
+mnist_train.py may be used to execute a full training run on MNIST dataset.
